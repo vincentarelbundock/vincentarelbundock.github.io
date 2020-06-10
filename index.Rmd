@@ -1,0 +1,12 @@
+---
+output: html_document
+---
+
+### Vincent's projects on Github
+
+* `Rdatasets`, A collection of over 1300 datasets originally distributed in R packages. https://vincentarelbundock.github.io/Rdatasets
+* `modelsummary`: Beautiful and customizable model summaries in R. https://vincentarelbundock.github.io/modelsummary
+* `countrycode` is a package for R which can convert to and from 40+ different country coding schemes, and to 600+ variants of country names in different languages and formats. It uses regular expressions to convert long country names (e.g. Sri Lanka) into any of those coding schemes or country names. It can create new variables with various regional groupings. https://github.com/vincentarelbundock/countrycode
+* `WDI` is a package for R which can download data from the World Banks' World Development Indicators. https://github.com/vincentarelbundock/WDI
+
+You can find more information about Vincent's day job here: https://arelbundock.com
